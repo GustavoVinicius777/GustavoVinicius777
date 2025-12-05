@@ -1,4 +1,15 @@
-## Hi there 👋
+# 🧑🏻‍💻 Gustavo Vinicius
+<span style="color:lightgrey; background-color:black">**CyberSecurity**
+</span>
+
+Meu [Linkedin](https://www.linkedin.com/in/gustavo-vin%C3%ADcius-4b4990391/).
+
+Meu [Youtube](https://www.youtube.com/channel/UChGO9YolWzx_U-rA-jsIGqA).
+
+Meu [LeetCode](https://leetcode.com/u/GustavoVinicius777/).
+
+  
+
 
 <!--
 **GustavoVinicius777/GustavoVinicius777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
