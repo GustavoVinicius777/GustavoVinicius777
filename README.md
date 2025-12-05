@@ -12,7 +12,7 @@ Meu [LeetCode](https://leetcode.com/u/GustavoVinicius777/).
       <a href="https://www.youtube.com/channel/UChGO9YolWzx_U-rA-jsIGqA">
          <img alt="Inscritos" 
          title="Inscreva-se ;)" 
-         src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UChGO9YolWzx_U-rA-jsIGqA?color=%23E05D44&label=INSCREVA-SE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+         src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UChGO9YolWzx_U-rA-jsIGqA?color=%23E05D44&label=INSCRITOS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
       <a href="https://github.com/GustavoVinicius777?tab=repositories&sort=stargazers">
          <img alt="contagem total de estrelas" 
          title="total de estrelas no github" 
