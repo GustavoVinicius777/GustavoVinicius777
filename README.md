@@ -1,5 +1,5 @@
 # 🧑🏻‍💻 Gustavo Vinicius
-<span style="color:lightgrey; background-color:black">**CyberSecurity**
+<span style="color:lightgrey; background-color:black">**Software Engineer**
 </span>
 
 Meu [Linkedin](https://www.linkedin.com/in/gustavo-vin%C3%ADcius-4b4990391/).
@@ -7,6 +7,9 @@ Meu [Linkedin](https://www.linkedin.com/in/gustavo-vin%C3%ADcius-4b4990391/).
 Meu [Youtube](https://www.youtube.com/channel/UChGO9YolWzx_U-rA-jsIGqA).
 
 Meu [LeetCode](https://leetcode.com/u/GustavoVinicius777/).
+
+  
+
 
   
 
