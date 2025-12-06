@@ -97,21 +97,6 @@ Meu [LeetCode](https://leetcode.com/u/GustavoVinicius777/).
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" 
 />
 
-
-<br/>
-<br/>
-
-## Informações de Desempenho
-
-<p>
-  <img
-   align="left"
-   alt="Estatisticas do Github"
-   height="200"
-   style="padding-right: 10px;"
-   src = "https://github-readme-stats.vercel.app/api?username=GustavoVinicius777&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />   
-
 <!--
 **GustavoVinicius777/GustavoVinicius777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
