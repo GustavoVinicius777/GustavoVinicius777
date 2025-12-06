@@ -2,9 +2,7 @@
 <span style="color:lightgrey; background-color:black">**Engenheiro de Software**
 </span>
 
-<span style="color:grey">
 Estudante de Engenharia de Software (Universidade de Mogi das Cruzes),  Entusiasta de Cibersegurança e IA/SLM´s (Small language Models)
-</span>
 
 Meu [Linkedin](https://www.linkedin.com/in/gustavo-vin%C3%ADcius-4b4990391/).
 
@@ -98,12 +96,6 @@ Meu [LeetCode](https://leetcode.com/u/GustavoVinicius777/).
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" 
 />
-      
-          
-          
-
-
-  
 
 
 <!--
