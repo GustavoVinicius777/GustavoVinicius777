@@ -16,7 +16,7 @@ Meu [LeetCode](https://leetcode.com/u/GustavoVinicius777/).
       <a href="https://github.com/GustavoVinicius777?tab=repositories&sort=stargazers">
          <img alt="contagem total de estrelas" 
          title="total de estrelas no github" 
-         src="https://custom-icon-badges.demolab.com/github/stars/Gustavovinicius777?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         src="https://custom-icon-badges.demolab.com/github/stars/Gustavovinicius777?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
 </p>
 
 
