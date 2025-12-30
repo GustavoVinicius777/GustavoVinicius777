@@ -1,8 +1,10 @@
 # 🧑🏻‍💻 Gustavo Vinicius
 <span style="color:lightgrey; background-color:black">**Engenheiro de Software**
 </span>
+<span style="color:lightgrey; background-color:black">**- Web Dev Back-end**
+</span>
 
-Estudante de Engenharia de Software (Universidade de Mogi das Cruzes),  Entusiasta de Cibersegurança e IA/SLM´s (Small language Models)
+Estudante de Engenharia de Software (Universidade de Mogi das Cruzes), Desenvolvedor Web Back-End e Entusiasta de Cibersegurança e IA/SLM´s (Small language Models)
 
 Meu [Linkedin](https://www.linkedin.com/in/gustavo-vin%C3%ADcius-4b4990391/).
 
@@ -32,24 +34,6 @@ Meu [LeetCode](https://leetcode.com/u/GustavoVinicius777/).
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
-
-<img 
-    align="left"
-    alt="Linguagem"
-    title="C"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="Linguagem"
-    title="Python"
-    width="45px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
-/>
           
 <img
     align="left"
@@ -60,6 +44,59 @@ Meu [LeetCode](https://leetcode.com/u/GustavoVinicius777/).
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 
+<img 
+    align="left"
+    alt="Controlador de Versão"
+    title="Git"
+    width="43px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
+/>
+
+<img 
+    align="left"
+    alt="Controlador de Versão"
+    title="Git"
+    width="43px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+/>
+
+<img 
+    align="left"
+    alt="Controlador de Versão"
+    title="Git"
+    width="43px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+/>
+
+<img 
+    align="left"
+    alt="Controlador de Versão"
+    title="Git"
+    width="43px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+/>
+
+<img 
+    align="left"
+    alt="Controlador de Versão"
+    title="Git"
+    width="43px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" 
+/>
+
+<img 
+    align="left"
+    alt="Controlador de Versão"
+    title="Git"
+    width="43px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"
+/>
 
 <img
     align="left"
@@ -72,30 +109,15 @@ Meu [LeetCode](https://leetcode.com/u/GustavoVinicius777/).
 
 <img 
     align="left"
-    alt="Sistema Operacional"
-    title="Linux"
-    width="45px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-
-<img 
-    align="left"
-    alt="Sistema Operacional"
-    title="Windows"
-    width="45px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg"
-/>
-
-<img 
-    align="left"
     alt="Controlador de Versão"
     title="Git"
     width="43px"
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg"
 />
+
+<br/>
+<br/>
 
 <!--
 **GustavoVinicius777/GustavoVinicius777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
